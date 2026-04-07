@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+*.csv
+*.pkl
+*.joblib
+*.bin
+data/*.csv
+!data/.gitkeep
